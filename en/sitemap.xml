@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://nickfday.github.io/hugo-fitness/workout/5x5/</loc>
+    <loc>/workout/5x5/</loc>
     <lastmod>2017-03-28T17:13:28+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nickfday.github.io/hugo-fitness/exercises/barbell-row/</loc>
+    <loc>/exercises/barbell-row/</loc>
     <lastmod>2017-03-28T17:13:28+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nickfday.github.io/hugo-fitness/exercises/bench-press/</loc>
+    <loc>/exercises/bench-press/</loc>
     <lastmod>2017-03-28T17:13:28+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nickfday.github.io/hugo-fitness/exercises/</loc>
+    <loc>/exercises/</loc>
     <lastmod>2016-12-05T14:41:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nickfday.github.io/hugo-fitness/workout/</loc>
+    <loc>/workout/</loc>
     <lastmod>2016-12-05T14:41:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nickfday.github.io/hugo-fitness/2016/04/24/what-is-hugo/</loc>
+    <loc>/2016/04/24/what-is-hugo/</loc>
     <lastmod>2016-04-24T02:50:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nickfday.github.io/hugo-fitness/2016/04/21/introduction/</loc>
+    <loc>/2016/04/21/introduction/</loc>
     <lastmod>2016-04-21T02:50:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nickfday.github.io/hugo-fitness/exercises/</loc>
+    <loc>/exercises/</loc>
     <lastmod>2017-03-28T17:13:28+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nickfday.github.io/hugo-fitness/</loc>
+    <loc>/</loc>
     <lastmod>2017-03-28T17:13:28+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nickfday.github.io/hugo-fitness/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2016-04-24T02:50:28+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nickfday.github.io/hugo-fitness/workout/</loc>
+    <loc>/workout/</loc>
     <lastmod>2017-03-28T17:13:28+01:00</lastmod>
     <priority>0</priority>
   </url>

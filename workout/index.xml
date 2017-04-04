@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workouts on My blog</title>
-    <link>/workout/index.xml</link>
+    <link>https://nickfday.github.io/hugo-fitness/workout/index.xml</link>
     <description>Recent content in Workouts on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -10,14 +10,14 @@
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2016 Copyright my blog</copyright>
     <lastBuildDate>Tue, 28 Mar 2017 17:13:28 +0100</lastBuildDate>
-    <atom:link href="/workout/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nickfday.github.io/hugo-fitness/workout/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>5 x 5</title>
-      <link>/workout/5x5/</link>
+      <link>https://nickfday.github.io/hugo-fitness/workout/5x5/</link>
       <pubDate>Tue, 28 Mar 2017 17:13:28 +0100</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>/workout/5x5/</guid>
+      <guid>https://nickfday.github.io/hugo-fitness/workout/5x5/</guid>
       <description>&lt;p&gt;A workout to get stronger&lt;/p&gt;
 </description>
     </item>
